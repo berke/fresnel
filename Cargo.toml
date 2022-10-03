@@ -1,0 +1,11 @@
+[package]
+name = "fresnel"
+version = "0.1.0"
+edition = "2021"
+authors = ["Berke DURAK <bd@exhrd.fr>"]
+license = "Apache-2.0 OR MIT"
+readme = "README.md"
+description = "Special function for computing the Fresnel integrals (CEPHES translation)"
+repository = "https://github.com/berke/fresnel"
+
+[dependencies]
